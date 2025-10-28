@@ -1,0 +1,75 @@
+{
+  "categories": [
+    {"id": 1, "name": "Alam"},
+    {"id": 2, "name": "Kuliner"},
+    {"id": 3, "name": "Sejarah"}
+  ],
+  "items": [
+    {
+      "id": 101,
+      "categoryId": 1,
+      "title": "Tangkuban Perahu",
+      "desc": "Gunung berapi ikonik dengan kawah luas dan pemandangan kabut.",
+      "image": "assets/images/tangkuban_perahu.jpg",
+      "year": "Legenda turun-temurun",
+      "price": "Rp30.000 - Rp50.000",
+      "location": "Cikole, Lembang, Kab. Bandung Barat",
+      "longDesc": "Tangkuban Perahu adalah gunung berapi aktif dengan kawah utama Kawah Ratu. Suhu cenderung sejuk, cocok untuk wisata keluarga. Biasanya tiket berbeda antara weekend/weekday, serta parkir terpisah."
+    },
+    {
+      "id": 102,
+      "categoryId": 1,
+      "title": "Kawah Putih",
+      "desc": "Danau kawah berwarna toska dengan suasana dingin menenangkan.",
+      "image": "assets/images/kawah_putih.jpg",
+      "year": "Dikenal sejak abad ke-19",
+      "price": "± Rp28.000 - Rp75.000 (shuttle opsional)",
+      "location": "Sugihmukti, Kec. Pasirjambu, Kab. Bandung",
+      "longDesc": "Warna air kawah dapat berubah karena kandungan sulfur. Terdapat area foto, jalur kayu, dan shuttle dari gerbang. Disarankan membawa jaket & masker."
+    },
+    {
+      "id": 201,
+      "categoryId": 2,
+      "title": "Braga Kuliner",
+      "desc": "Deretan kafe dan resto klasik di Jalan Braga.",
+      "image": "assets/images/braga.jpg",
+      "year": "Sejak era kolonial",
+      "price": "Variatif (kafe & resto)",
+      "location": "Jl. Braga, Kota Bandung",
+      "longDesc": "Jalan Braga menawarkan suasana heritage dengan deretan kafe, pastry shop, dan restoran. Cocok untuk wisata kuliner sore-malam sambil menikmati bangunan tua."
+    },
+    {
+      "id": 202,
+      "categoryId": 2,
+      "title": "Sate Kelinci Lembang",
+      "desc": "Kuliner khas pegunungan dengan bumbu kacang gurih.",
+      "image": "assets/images/sate_kelinci.jpg",
+      "year": "Populer sejak 1990-an",
+      "price": "± Rp30.000 - Rp60.000/porsi",
+      "location": "Sekitar Lembang, Kab. Bandung Barat",
+      "longDesc": "Tekstur daging lembut dengan marinasi sederhana, disajikan dengan bumbu kacang. Biasanya tersedia juga sop, nasi hangat, dan sambal."
+    },
+    {
+      "id": 301,
+      "categoryId": 3,
+      "title": "Gedung Sate",
+      "desc": "Ikon arsitektur kolonial dan pusat pemerintahan Jawa Barat.",
+      "image": "assets/images/gedung_sate.jpg",
+      "year": "Dibangun 1920",
+      "price": "Umumnya gratis (area luar), museum berbayar",
+      "location": "Jl. Diponegoro No.22, Kota Bandung",
+      "longDesc": "Ciri khas enam tusuk sate pada puncak menara. Tersedia Museum Gedung Sate dengan instalasi multimedia sejarah pembangunan hingga fungsi saat ini."
+    },
+    {
+      "id": 302,
+      "categoryId": 3,
+      "title": "Museum Asia Afrika",
+      "desc": "Sejarah Konferensi Asia Afrika dengan koleksi dokumenter.",
+      "image": "assets/images/asia_afrika.jpg",
+      "year": "Resmi 1980",
+      "price": "Umumnya gratis",
+      "location": "Jl. Asia Afrika No.65, Kota Bandung",
+      "longDesc": "Memamerkan arsip, foto, dan diorama KAA 1955. Gedung berarsitektur art deco, dekat Alun-Alun Bandung. Ada pameran tematik dan layanan pemandu."
+    }
+  ]
+}
